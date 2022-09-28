@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "palindromo.Domain", "palindromo_UnitTests\palindromo.Domain.csproj", "{07AAA5C8-CD74-4A68-91E7-93B4E01F8920}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "palindromo.Tests", "palindromo.Tests\palindromo.Tests.csproj", "{55C5937A-2045-4568-804E-D1D95814DF94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07AAA5C8-CD74-4A68-91E7-93B4E01F8920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07AAA5C8-CD74-4A68-91E7-93B4E01F8920}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07AAA5C8-CD74-4A68-91E7-93B4E01F8920}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07AAA5C8-CD74-4A68-91E7-93B4E01F8920}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55C5937A-2045-4568-804E-D1D95814DF94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55C5937A-2045-4568-804E-D1D95814DF94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55C5937A-2045-4568-804E-D1D95814DF94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55C5937A-2045-4568-804E-D1D95814DF94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F98D99F6-D700-4CE2-A25C-1C6A0A26C156}
+	EndGlobalSection
+EndGlobal
